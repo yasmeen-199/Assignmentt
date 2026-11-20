@@ -1,0 +1,19 @@
+
+{
+  "name": "assignment6",
+  "version": "1.0.0",
+  "description": "MongoDB Assignment using Express.js and MongoDB Native Driver",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^6.12.0"
+  }
+}
